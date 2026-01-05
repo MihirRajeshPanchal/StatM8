@@ -1,0 +1,12 @@
+    Data loader - Takes csv or json files 
+        loader
+    Data Ingestion Layer Understanding - Reads data performs basic validation
+        profile
+    Code Generation -
+        generator
+    Code Running - Save output to folder
+        runner
+Code Explanation - Explain outputs in the folder text
+    explainer
+Converter to Pdf 
+    converter
