@@ -5,3 +5,7 @@ langchain_huggingface
 python-dotenv
 pydantic
 python-multipart
+pandas
+numpy
+matplotlib
+seaborn
